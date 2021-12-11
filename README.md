@@ -1,6 +1,32 @@
-### Hi there 👋
+### `> whoami`
+
+My name is Sergii, I am a self-taught software tester / developer from Ukraine 🇺🇦  
+At work I'm most passionate about quality and automation 🦹‍♂️ I also enjoy uncovering and fixing nasty 🐞  
+In my spare time I enjoy a variety of different things which are too numerous to list here.  
+I like coffee ☕, but I like good tea 🍵 even more.
+
+### `> echo $ABOUT_ME`
+
+- 🤓 By day I'm a Test Competency Lead in [Sysco AS, Norway](https://sysco.no/) (BTW, we are looking for people with a passion for testing and test automation, so send me a message if you're interested and let's chat.)
+- 👨‍💻 I also have been for the past 4 years and continue to-day wearing a bunch of development hats in [Elhub](https://elhub.no), working with test automation, cloud, back-end development, CI/CD, and dev experience. While most of our (Elhub's) code is "inner-source", we have some [OSS projects](https://github.com/orgs/elhub/repositories) on github as well, so check it out if you're interested.
+- 🌱 I’m currently learning [Haskell](https://www.haskell.org/) and functional programming.
+- 💬 Ask me about software testing, automation, CI/CD, Ansible, team building, leadership, personal finance, personal productivity. Also feel free to shoot me a message if you'd like to chat about anything else.
+- ❤️  Things I care about:
+  - 🔏 Online privacy and data protection
+- 📫 I'm not a fan of Twitter and the likes, but here are some ways how you can reach me:
+    - 📨 email: `sergio<dot>igwt<at>gmail<dot>com`
+    - 💼 [linkedin](https://www.linkedin.com/in/serpro69/)
+    - ☕ [buymeacoffee](https://www.buymeacoffee.com/serpro69)
+- ⚡ Fun facts:
+    - I worked in Audit and Finance before I found myself in IT...
+    - Some people call me Sergio, for no apparent reasons...
+
+
+---
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=serpro69)
+
+---
 
 <!--
 **serpro69/serpro69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +41,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+Useful links:
+- emojis wiki: https://emojis.wiki/
+- emojidb: https://emojidb.org/
 -->
