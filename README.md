@@ -1,6 +1,6 @@
 ### `> whoami`
 
-My name is Sergii, I am a self-taught software tester / developer from Ukraine 🇺🇦 living in Norway 🇳🇴
+My name is Sergii, I am a self-taught software tester / developer from Ukraine 🇺🇦 living in Norway 🇳🇴  
 At work I'm most passionate about software quality and automation 🦹‍♂️ I also enjoy uncovering and fixing nasty 🐞  
 In my spare time I enjoy a variety of different things which are too numerous to list here.  
 I like coffee ☕, but I like good tea 🍵 even more.
