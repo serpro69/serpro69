@@ -1,25 +1,29 @@
+### `> echo "hello 👋"`
+
 ### `> whoami`
 
 My name is Sergii, I am a self-taught software tester / developer from Ukraine 🇺🇦 living in Norway 🇳🇴  
-At work I'm most passionate about software quality and automation 🦹‍♂️ I also enjoy uncovering and fixing nasty 🐞  
+At work I'm most passionate about software quality 🔍 and automation ⚙️ I also enjoy uncovering and fixing nasty 🐞  
 In my spare time I enjoy a variety of different things which are too numerous to list here.  
-I like coffee ☕, but I like good tea 🍵 even more.
 
-### `> for i in $🚅; do; echo "$i"; done`
+### `> for i in $📌; do; echo "$i"; done`
 
-- 🤓 By day I'm a Senior Managing Consultant in [CegalSYSCO](www.sysco.no), focusing on testing (mostly test automation and test management) and CI.
-- 👨‍💻 I also have been for the past 4 years and continue to-day wearing a bunch of development hats in [Elhub](https://elhub.no), working with test automation, cloud, back-end development, CI/CD, and dev experience. While most of our (Elhub's) code is "inner-source", we have some [OSS projects](https://github.com/orgs/elhub/repositories) on github as well, so check it out if you're interested.
-- 🌱 I’m currently learning [Haskell](https://www.haskell.org/) and functional programming.
-- 💬 Ask me about: software testing, automation, CI/CD, Ansible, team building, leadership, personal finance, personal productivity. Also feel free to shoot me a message if you'd like to chat about anything else.
+- 🦸‍♂️ By day I'm a Senior Managing Consultant in [CegalSYSCO](www.sysco.no) where I create all sorts of automation 🤖 using Tea Driven Development 🍵🔨, with my main focus areas being testing 🧪 and CI 💯
+  - 👨‍💻 I also have been for the past 4 years and continue to-day wearing a bunch of development hats :shipit: in [Elhub](https://elhub.no), working with test automation, cloud, back-end development, CI/CD, and dev experience. While most of our (Elhub's) code is "inner-source", we have some [OSS projects](https://github.com/orgs/elhub/repositories) on github as well, so check it out if you're interested.
+- 🦹‍♂️ By night I’m currently learning 🌱 [Haskell](https://www.haskell.org/) and functional programming.
+  - 🌲 My "evergreen" goals are: learning and expanding my programming and leadership skills. I am always excited about new challenges, and I want to be ready for anything I might end up doing profesionally in the fugure. I love learning new stuff, so as Gandhi once said, *"Learn as if you were to live forever"* 📚
+- 💬 Ask me about: software testing, automation, CI/CD, Ansible, team building, leadership, personal finance, personal productivity. Also feel free to shoot me a message if you'd like to chat about anything else, chances are - I'll be interested.
 - ❤️  Things I care about:
-  - 🔏 Online privacy and data protection
-- 📫 I'm not a fan of Twitter and the likes, but here are some ways how you can reach me:
+  - 🔏 Online privacy and personal data protection
+  - :octocat: OSS
+  - 📖 Free and open knowledge
+- 📫 I'm not a fan of Twitter and social media in general, but here are some ways how to reach me:
     - 📨 email: `sergio<dot>igwt<at>gmail<dot>com`
     - 🔗 [linkedin](https://www.linkedin.com/in/serpro69/)
     - ☕ [buymeacoffee](https://www.buymeacoffee.com/serpro69)
 - ⚡ Fun facts:
-    - I worked in Audit and Finance before I found myself in IT...
-    - Some people call me Sergio, for no apparent reasons...
+    - I haven't been a coder for my entire professional life. I have a second degree in Finance and I worked in Audit and Finance, among other things, before I found myself in IT...
+    - Some people call me Sergio, "for no apparent reasons"...
 
 ---
 
