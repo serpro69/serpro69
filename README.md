@@ -31,6 +31,11 @@ In my spare time I enjoy a variety of different things which are too numerous to
 
 ---
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/serpro69/serpro69/output/github-contribution-grid-snake.svg)
+<!--generated with https://github.com/Platane/snk -->
+
+---
+
 <!--
 **serpro69/serpro69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
