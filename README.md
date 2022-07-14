@@ -22,7 +22,7 @@ In my spare time I enjoy a variety of different things which are too numerous to
     <ul>
       <li> 🌲 My "evergreen goals" are: learning and expanding my programming and leadership skills. I am always excited about new challenges, and I want to be ready for anything I might end up doing professionally in the future. I love learning new stuff, so as Gandhi once said, <i>"Learn as if you were to live forever"</i> 📚</li>
     </ul>
-    <li>💬 Are you currently facing any challenges? Would you like to discuss any recent trends in tech? Do you just want to chat or want to share something? <a href="https://github.com/serpro69/serpro69/discussions">Post a question</a> and let's talk about it together.</li>
+    <li>💬 <a href="https://github.com/serpro69/serpro69/discussions">Ask me about anything. </a>
     <li>❤️  Things I care about:</li>
     <ul>
       <li>🔏 Online privacy and personal data protection</li>
