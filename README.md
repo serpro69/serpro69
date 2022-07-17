@@ -1,6 +1,6 @@
-<code>$ echo "hello 👋"</code>
+<code>$ echo "hello 👋 from Norway 🇳🇴 , a land beyond the wall 🥶 ...sort of"</code>
 
-Hello, wanderer! Thanks for checking out my profile page.
+Hi! Thanks for checking out my profile page.
 
 <details> 
   <summary><code>$ whoami</code></summary>
@@ -16,13 +16,12 @@ In my spare time I enjoy a variety of different things which are too numerous to
   <summary><code>$ for i in $📌; do; echo "$i"; done</code></summary>
   <br/>
   <ul>
-    <li>🦸‍♂️ By day I work <a href="https://cegal.com">@CEGAL</a>, where I create all sorts of automation 🤖 using Tea Driven Development 🍵🔨, with my main focus areas being testing 🧪 and CI 💯</li>
+    <li>🦸‍♂️ By day I work <a href="https://cegal.com">@CEGAL</a>, where I create all sorts of automation 🤖 using TDD (Tea Driven Development 🍵🔨), with my main focus areas being testing 🧪 and CI 💯</li>
     <li>👨‍💻 I also have been for the past 4 years and continue to-day wearing a bunch of development hats :shipit: <a href="https://elhub.no">@Elhub</a>, working with test automation, cloud, back-end development, CI/CD, and dev experience.</li>
     <li>🦹‍♂️ By night I’m currently learning 🌱 <a href="https://www.haskell.org/">λ Haskell</a> and functional programming.</li>
     <ul>
       <li> 🌲 My "evergreen goals" are: learning and expanding my programming and leadership skills. I am always excited about new challenges, and I want to be ready for anything I might end up doing professionally in the future. I love learning new stuff, so as Gandhi once said, <i>"Learn as if you were to live forever"</i> 📚</li>
     </ul>
-    <li>💬 <a href="https://github.com/serpro69/serpro69/discussions">Ask me about anything. </a>
     <li>❤️  Things I care about:</li>
     <ul>
       <li>🔏 Online privacy and personal data protection</li>
@@ -31,6 +30,7 @@ In my spare time I enjoy a variety of different things which are too numerous to
     </ul>
     <li>📫 I'm not a fan of Twitter and social media in general, but here are some ways how to reach me:</li>
     <ul>
+      <li>💬 <a href="https://github.com/serpro69/serpro69/discussions">ask me about anything</a>
       <li>📨 email: <code>sergio[dot]igwt[at]gmail[dot]com</code></li>
       <li>🔗 <a href="https://www.linkedin.com/in/serpro69/">linkedin</a></li>
       <li>☕ <a href="https://www.buymeacoffee.com/serpro69">buymeacoffee</a></li>
