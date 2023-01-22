@@ -17,7 +17,7 @@ In my spare time I enjoy a variety of different things which are too numerous to
   <br/>
   <ul>
     <li>🦸‍♂️ By day I work <a href="https://cegal.com">@CEGAL</a>, where I create all sorts of automation 🤖 using TDD (Tea Driven Development 🍵🔨), with my main focus areas being testing 🧪 and CI 💯</li>
-    <li>👨‍💻 I also have been for the past 4 years and continue to-day wearing a bunch of development hats :shipit: <a href="https://elhub.no">@Elhub</a>, working with test automation, cloud, back-end development, CI/CD, and dev experience.</li>
+    <li>👨‍💻 I also have been for the past 5+ years and continue to-day wearing a bunch of development hats :shipit: <a href="https://elhub.no">@Elhub</a>, working with test automation, cloud, back-end development, CI/CD, and dev experience.</li>
     <li>🦹‍♂️ By night I’m currently learning 🌱 <a href="https://www.haskell.org/">λ Haskell</a> and functional programming.</li>
     <ul>
       <li> 🌲 My "evergreen goals" are: learning and expanding my programming and leadership skills. I am always excited about new challenges, and I want to be ready for anything I might end up doing professionally in the future. I love learning new stuff, so as Gandhi once said, <i>"Learn as if you were to live forever"</i> 📚</li>
