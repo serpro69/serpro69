@@ -1,3 +1,7 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
+---
+
 <code>$ echo "hello 👋 from Norway 🇳🇴 , a land beyond the wall 🥶 ...sort of"</code>
 
 Hi! Thanks for checking out my profile page.
