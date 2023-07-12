@@ -2,14 +2,14 @@
 
 ---
 
-<code>$ echo "hello 👋 from Norway 🇳🇴 , a land beyond the wall 🥶 ...sort of"</code>
+<code>$ echo "Hello ${WORLD:-world} 👋"</code>
 
-Hi! Thanks for checking out my profile page.
+Hello and thanks for checking out my profile page.
 
 <details> 
   <summary><code>$ whoami</code></summary>
   <br/>
-My name is Serhii, I am a self-taught software tester / developer from Ukraine 🇺🇦  
+My name is Serhii, I am a self-taught software tester / developer from Ukraine 🇺🇦 located in Norway 🇳🇴  
 At work I'm most passionate about software quality 🔍 and automation ⚙️ I also enjoy uncovering and fixing nasty 🐞  
 In my spare time I enjoy a variety of different things which are too numerous to list here.  
 </details>
