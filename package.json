@@ -1,0 +1,29 @@
+{
+  "name": "serpro69",
+  "version": "1.0.0",
+  "description": "trying new stuff out",
+  "main": "index.js",
+  "scripts": {
+    "endorse": "node endorse.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serpro69/serpro69.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serpro69/serpro69/issues"
+  },
+  "homepage": "https://github.com/serpro69/serpro69#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.0.0",
+    "readme-box": "^0.1.2"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6"
+  }
+}
+

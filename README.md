@@ -59,3 +59,12 @@ In my spare time I enjoy a variety of different things which are too numerous to
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/serpro69/serpro69/output/github-contribution-grid-snake.svg)
 <!--generated with https://github.com/Platane/snk -->
+
+---
+
+<!--START_SECTION:endorsements-->
+### Skills & Endorsements
+  
+I would like to add you to my professional network on the GITHUB.
+
+<!--END_SECTION:endorsements-->
