@@ -69,12 +69,15 @@ In my spare time I enjoy a variety of different things which are too numerous to
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
   
-  I would like to add you to my professional network on GitHub. See more on [how to endorse a skill](https://github.com/serpro69/serpro69/issues/3).
+  I would like to add you to my professional network on the GITHUB.
 
   <ul>
-  <li><a href="https://github.com/serpro69/serpro69/issues/5">Kotlin</a>: <img src=https://avatars.githubusercontent.com/u/22973227?u=30ca205ca85c86d515c568b57def03c9b560e75b&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/serpro69/serpro69/issues/4">Software Testing :test_tube: </a>: <img src=https://avatars.githubusercontent.com/u/22973227?u=30ca205ca85c86d515c568b57def03c9b560e75b&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/serpro69/serpro69/issues/2">Ansible</a>: <img src=https://avatars.githubusercontent.com/u/22973227?u=30ca205ca85c86d515c568b57def03c9b560e75b&v=4&s=20 height=20 /></li>
+  <li><a href="https://github.com/serpro69/serpro69/issues/8">TeamCity</a>: <img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /></li>
+<li><a href="https://github.com/serpro69/serpro69/issues/7">Java</a>: <img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /></li>
+<li><a href="https://github.com/serpro69/serpro69/issues/6">Selenium</a>: <img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /></li>
+<li><a href="https://github.com/serpro69/serpro69/issues/5">Kotlin</a>: <img src=https://avatars.githubusercontent.com/u/22973227?u=30ca205ca85c86d515c568b57def03c9b560e75b&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /></li>
+<li><a href="https://github.com/serpro69/serpro69/issues/4">Software Testing :test_tube: </a>: <img src=https://avatars.githubusercontent.com/u/22973227?u=30ca205ca85c86d515c568b57def03c9b560e75b&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /></li>
+<li><a href="https://github.com/serpro69/serpro69/issues/2">Ansible</a>: <img src=https://avatars.githubusercontent.com/u/22973227?u=30ca205ca85c86d515c568b57def03c9b560e75b&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /></li>
   <li><a href="https://github.com/serpro69/serpro69/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
   </ul>
   <!--END_SECTION:endorsements-->
