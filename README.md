@@ -65,7 +65,7 @@ In my spare time I enjoy a variety of different things which are too numerous to
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
   
-  I would like to add you to my professional network on the GITHUB.
+  I would like to add you to my professional network on GitHub. See more on [how to endorse a skill](https://github.com/serpro69/serpro69/issues/3).
 
   <ul>
   <li><a href="https://github.com/serpro69/serpro69/issues/5">Kotlin</a>: <img src=https://avatars.githubusercontent.com/u/22973227?u=30ca205ca85c86d515c568b57def03c9b560e75b&v=4&s=20 height=20 /></li>
