@@ -57,7 +57,7 @@ function generateStuffInsideFences(data) {
   const listWithFences = `${START_COMMENT}
   ### Skills & Endorsements
   
-  I would like to add you to my professional network on the GITHUB.
+  I would like to add you to my professional network on GitHub. See more on [how to endorse a skill](https://github.com/serpro69/serpro69/issues/3).
 
   <ul>
   ${renderedList}
