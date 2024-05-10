@@ -35,7 +35,7 @@ In my spare time I enjoy a variety of different things which are too numerous to
     <li>📫 I'm not a fan of Twitter and social media in general, but here are some ways how to reach me:</li>
     <ul>
       <li>💬 <a href="https://github.com/serpro69/serpro69/discussions">ask me about anything</a>
-      <li>📨 email: <code>sergio[dot]igwt[at]gmail[dot]com</code></li>
+      <li>🗝️ <a href="https://keybase.io/serpro">keybase</a></li>
       <li>🔗 <a href="https://www.linkedin.com/in/serpro69/">linkedin</a></li>
       <li>☕ <a href="https://www.buymeacoffee.com/serpro69">buymeacoffee</a></li>
     </ul>
