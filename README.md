@@ -2,16 +2,20 @@
 
 ---
 
-<code>$ echo "Hello ${WORLD:-world} 👋"</code>
+<code>$ echo "Hello, ${USER:-world} 👋"</code>
 
-Hello and thanks for checking out my profile page.
+Hello and welcome to my profile page.
+
+Take a look around and explore the various details about me by clicking on the dropdowns below.
+
+Feel free to [endorse my skills](#skills--endorsements), and take a look at the projects I'm currently working on in the Pinned repositories section.
 
 <details> 
   <summary><code>$ whoami</code></summary>
   <br/>
-My name is Serhii, I am a self-taught software tester / developer from Ukraine 🇺🇦 located in Norway 🇳🇴  
-At work I'm most passionate about software quality 🔍 and automation ⚙️ I also enjoy uncovering and fixing nasty 🐞  
-In my spare time I enjoy a variety of different things which are too numerous to list here.  
+My name is Serhii, I am a self-taught software developer, originally from 🇺🇦, living in beautiful ❤️ 🇳🇴🇳🇴🇳🇴
+<br>At work I'm most passionate about software quality 🔍 and automation ⚙️  I also enjoy uncovering and fixing nasty 🐞
+<br>In my spare time I enjoy a variety of different things which are too numerous to list here.
 </details>
 
 <br/>
@@ -20,9 +24,8 @@ In my spare time I enjoy a variety of different things which are too numerous to
   <summary><code>$ for i in $📌; do; echo "$i"; done</code></summary>
   <br/>
   <ul>
-    <li>🦸‍♂️ By day I work <a href="https://cegal.com">@CEGAL</a>, where I create all sorts of automation 🤖 using TDD (Tea Driven Development 🍵🔨), with my main focus areas being testing 🧪 and CI 💯</li>
-    <li>👨‍💻 I also have been for the past 5+ years and continue to-day wearing a bunch of development hats :shipit: <a href="https://elhub.no">@Elhub</a>, working with test automation, cloud, back-end development, CI/CD, and dev experience.</li>
-    <li>🦹‍♂️ By night I’m currently learning 🌱 <a href="https://www.haskell.org/">λ Haskell</a> and functional programming.</li>
+    <li>🦸‍♂️ By day I'm a Lead Developer <a href="Welcome Workdays">@WelcomeWorkdays</a>, where we are creating a digital platform for a flexible workplace. I mainly work with development experience and automation 🤖 using TDD (Tea Driven Development 🍵🔨), with my main focus areas being cloud platform ☁️  and CI 💯, but I also work with back-end and test automation 🧪 </li>
+    <li>🦹‍♂️ By night I’m currently learning 🌱 <a href="https://www.scala-lang.org/">λ Scala</a> and functional programming, and want to try it as a more developer-friendly alternative to Kotlin 🇰 and Java 🇯.</li>
     <ul>
       <li> 🌲 My "evergreen goals" are: learning and expanding my programming and leadership skills. I am always excited about new challenges, and I want to be ready for anything I might end up doing professionally in the future. I love learning new stuff, so as Gandhi once said, <i>"Learn as if you were to live forever"</i> 📚</li>
     </ul>
@@ -38,9 +41,11 @@ In my spare time I enjoy a variety of different things which are too numerous to
       <li>🕶️ <a href="https://matrix.to/#/@serpro:matrix.org">matrix</a></li>
       <li>🔗 <a href="https://www.linkedin.com/in/serpro69/">linkedin</a></li>
       <li>☕ <a href="https://www.buymeacoffee.com/serpro69">buymeacoffee</a></li>
+      <li>☕ <a href="https://www.ko-fi.com/serpro69">ko-fi</a></li>
     </ul>
     <li>⚡ Fun facts:</li>
     <ul>
+      <li>Before coming to live in Norway 🇳🇴, I've spent ~2 years living in Mumbai, India 🇮🇳</li>
       <li>I haven't been a coder for my entire professional life. I have a second degree in Finance and I worked in Audit and Finance, among other things, before I found myself in IT...</li>
       <li>Some people call me Sergio, for no immediately apparent reasons...</li>
     </ul>
