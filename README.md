@@ -37,6 +37,7 @@ My name is Serhii, I am a self-taught software developer, originally from 🇺�
     </ul>
     <li>📫 I'm not a fan of Twitter and social media in general, but here are some ways how to reach me:</li>
     <ul>
+      <li>📧 <code>$( echo 'freceb@qvfebbg.bet' | tr 'N-ZA-Mn-za-m' 'A-Za-z' )</code></li>
       <li>💬 <a href="https://github.com/serpro69/serpro69/discussions">ask me about anything</a>
       <li>🕶️ <a href="https://matrix.to/#/@serpro:matrix.org">matrix</a></li>
       <li>🔗 <a href="https://www.linkedin.com/in/serpro69/">linkedin</a></li>
