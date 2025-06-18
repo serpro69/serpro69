@@ -13,8 +13,8 @@ Feel free to [endorse my skills](#skills--endorsements), and take a look at the 
 <details> 
   <summary><code>$ whoami</code></summary>
   <br/>
-My name is Serhii, I am a self-taught software developer, originally from 🇺🇦, living in beautiful ❤️ 🇳🇴🇳🇴🇳🇴
-<br>At work I'm most passionate about software quality 🔍 and automation ⚙️  I also enjoy uncovering and fixing nasty 🐞
+My name is Særgeir, I am a self-taught software guy, made in 🇺🇦, living in beautiful ❤️ 🇳🇴🇳🇴🇳🇴
+<br>At work I'm most passionate about software quality 🔍 , development experience 💯 and automation ⚙️  I also enjoy uncovering and fixing nasty 🐞
 <br>In my spare time I enjoy a variety of different things which are too numerous to list here.
 </details>
 
@@ -24,7 +24,7 @@ My name is Serhii, I am a self-taught software developer, originally from 🇺�
   <summary><code>$ for i in $📌; do; echo "$i"; done</code></summary>
   <br/>
   <ul>
-    <li>🦸‍♂️ By day I'm a Lead Developer <a href="https://www.welcomeworkdays.com">@WelcomeWorkdays</a>, where we are creating a digital platform for a flexible workplace. I mainly work with development experience and automation 🤖 using TDD (Tea Driven Development 🍵🔨), with my main focus areas being cloud platform ☁️  and CI 💯, but I also work with back-end and test automation 🧪 </li>
+    <li>🦸‍♂️ By day I'm a Lead Cloud Platform Developer <a href="https://www.welcomeworkdays.com">@WelcomeWorkdays</a>, where we are creating a digital platform for a flexible workplace. I mainly work with cloud and automation 🤖 I use TDD (Tea Driven Development 🍵 ) daily. My main focus responsibilities are architecture and provisioning of cloud platform on GCP ☁️ , CI and development experience 💯, but I also do a little side-work (mainly mentoring and providing guidance to the rest of the dev team) on back-end and test automation 🧪</li>
     <li>🦹‍♂️ By night I’m currently learning 🌱 <a href="https://www.scala-lang.org/">λ Scala</a> and functional programming, and want to try it as a more developer-friendly alternative to Kotlin 🇰 and Java 🇯.</li>
     <ul>
       <li> 🌲 My "evergreen goals" are: learning and expanding my programming and leadership skills. I am always excited about new challenges, and I want to be ready for anything I might end up doing professionally in the future. I love learning new stuff, so as Gandhi once said, <i>"Learn as if you were to live forever"</i> 📚</li>
