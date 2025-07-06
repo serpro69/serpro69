@@ -48,7 +48,7 @@ function generateStuffInsideFences(data) {
     // Remove leading spaces and repeated CR/LF
     .replace(/([\r\n]+ +)+/gm, '')}</a>: ${x.reactions
           .map(
-            (reaction) => `<img src=${reaction.user.avatar_url}&s=20 height=20 />` // use github image api s=20 to size smaller
+            (reaction) => `<img src=${reaction.user.avatar_url}&s=20 height=20 width=20 />` // use github image api s=20 to size smaller
           )
           .join("")}</li>`
     )
