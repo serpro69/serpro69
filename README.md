@@ -25,7 +25,7 @@ My name is Særgeir, I am a self-taught software guy, made in 🇺🇦, living i
   <br/>
   <ul>
     <li>🦸‍♂️ By day I'm a Lead Cloud Platform Developer <a href="https://www.welcomeworkdays.com">@WelcomeWorkdays</a>, where we are creating a digital platform for a flexible workplace. I mainly work with cloud and automation 🤖 I use TDD (Tea Driven Development 🍵 ) daily. My main focus responsibilities are architecture and provisioning of cloud platform on GCP ☁️ , CI and development experience 💯, but I also do a little side-work (mainly mentoring and providing guidance to the rest of the dev team) on back-end and test automation 🧪</li>
-    <li>🦹‍♂️ By night I’m currently learning 🌱 <a href="https://www.scala-lang.org/">λ Scala</a> and functional programming, and want to try it as a more developer-friendly alternative to Kotlin 🇰 and Java 🇯.</li>
+    <li>🦹‍♂️ By night I'm currently working on my <a href="https://github.com/serpro69/ktchn8s">kubernetes homelab ☸️</a></li>
     <ul>
       <li> 🌲 My "evergreen goals" are: learning and expanding my programming and leadership skills. I am always excited about new challenges, and I want to be ready for anything I might end up doing professionally in the future. I love learning new stuff, so as Gandhi once said, <i>"Learn as if you were to live forever"</i> 📚</li>
     </ul>
