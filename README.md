@@ -65,6 +65,17 @@ I've worked on a lot of different technologies over the years, so I've tried to 
   <div align="center">
     <table>
       <tr>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></td>
+        <td><img width="42" src="https://www.pngmart.com/files/23/Oracle-Logo-PNG-Image.png" alt="OCI" title="OCI"/></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform"/></td>
@@ -76,22 +87,11 @@ I've worked on a lot of different technologies over the years, so I've tried to 
         <td></td>
       </tr>
       <tr>
-        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/></td>
-        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/></td>
-        <td></td>
-        <td></td>
+        <td><img width="42" src="https://static.datadoghq.com/static/c/b453f815/asset-b453f8153cec1d17.svg" alt="Datadog" title="Datadog"/></td>
+        <td><img width="42" src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg" alt="OpenTelemetry" title="OpenTelemetry"/></td>
         <td></td>
         <td></td>
         <td></td>
