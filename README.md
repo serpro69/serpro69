@@ -65,31 +65,20 @@ I've worked on a lot of different technologies over the years, so I've tried to 
   <div align="center">
     <table>
       <tr>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" alt="Ansible" title="Ansible"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" title="Jenkins"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vault.png" alt="Vault" title="Vault"/></code></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" alt="Ansible" title="Ansible"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" title="Jenkins"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vault.png" alt="Vault" title="Vault"/></td>
         <td></td>
       </tr>
       <tr>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/></code></td>
         <td></td>
         <td></td>
         <td></td>
@@ -98,32 +87,10 @@ I've worked on a lot of different technologies over the years, so I've tried to 
         <td></td>
       </tr>
       <tr>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/scala.png" alt="Scala" title="Scala"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/groovy.png" alt="Groovy" title="Groovy"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graalvm.png" alt="GraalVM" title="GraalVM"/></code></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/></td>
         <td></td>
-      </tr>
-      <tr>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" alt="Hibernate" title="Hibernate"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/liquibase.png" alt="Liquibase" title="Liquibase"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flyway.png" alt="Flyway" title="Flyway"/></code></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/quarkus.png" alt="Quarkus" title="Quarkus"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png" alt="Auth0" title="Auth0"/></code></td>
         <td></td>
         <td></td>
         <td></td>
@@ -131,22 +98,55 @@ I've worked on a lot of different technologies over the years, so I've tried to 
         <td></td>
       </tr>
       <tr>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" alt="fedora" title="fedora"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nixos.png" alt="Nixos" title="Nixos"/></code></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/scala.png" alt="Scala" title="Scala"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/groovy.png" alt="Groovy" title="Groovy"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graalvm.png" alt="GraalVM" title="GraalVM"/></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" alt="Hibernate" title="Hibernate"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/liquibase.png" alt="Liquibase" title="Liquibase"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flyway.png" alt="Flyway" title="Flyway"/></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/quarkus.png" alt="Quarkus" title="Quarkus"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png" alt="Auth0" title="Auth0"/></td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/testcontainers.png" alt="Testcontainers" title="Testcontainers"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" alt="JUnit" title="JUnit"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" alt="Selenium" title="Selenium"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" alt="pytest" title="pytest"/></code></td>
-        <td><code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" alt="Jest" title="Jest"/></code></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" alt="fedora" title="fedora"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nixos.png" alt="Nixos" title="Nixos"/></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/testcontainers.png" alt="Testcontainers" title="Testcontainers"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" alt="JUnit" title="JUnit"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" alt="Selenium" title="Selenium"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" alt="pytest" title="pytest"/></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" alt="Jest" title="Jest"/></td>
         <td></td>
         <td></td>
         <td></td>
