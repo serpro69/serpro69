@@ -75,12 +75,6 @@ I've worked with a lot of different technologies over the years, so I've tried t
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></td>
         <td><img width="42" src="https://www.pngmart.com/files/23/Oracle-Logo-PNG-Image.png" alt="OCI" title="OCI"/></td>
         <td><img width="42" src="https://logos-world.net/wp-content/uploads/2022/04/Cloudflare-Emblem.png" alt="Cloudflare" title="Cloudflare"/></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
       </tr>
       <tr>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></td>
@@ -89,6 +83,7 @@ I've worked with a lot of different technologies over the years, so I've tried t
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" alt="Ansible" title="Ansible"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></td>
+        <td><img width="42" src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="ArgoCD" title="ArgoCD"/></td>
         <td><img width="42" src="https://cdn.jsdelivr.net/npm/@jetbrains/logos@3.0.4/teamcity/icon-512.png" alt="TeamCity" title="TeamCity"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="Github Actions" title="Github Actions"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" title="Jenkins"/></td>
@@ -100,11 +95,6 @@ I've worked with a lot of different technologies over the years, so I've tried t
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png" alt="Loki" title="Loki"/></td>
         <td><img width="42" src="https://static.datadoghq.com/static/c/b453f815/asset-b453f8153cec1d17.svg" alt="Datadog" title="Datadog"/></td>
         <td><img width="42" src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg" alt="OpenTelemetry" title="OpenTelemetry"/></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
       </tr>
       <tr>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/></td>
@@ -116,7 +106,6 @@ I've worked with a lot of different technologies over the years, so I've tried t
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/groovy.png" alt="Groovy" title="Groovy"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graalvm.png" alt="GraalVM" title="GraalVM"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></td>
-        <td></td>
       </tr>
       <tr>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></td>
@@ -126,21 +115,12 @@ I've worked with a lot of different technologies over the years, so I've tried t
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" alt="Hibernate" title="Hibernate"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/liquibase.png" alt="Liquibase" title="Liquibase"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flyway.png" alt="Flyway" title="Flyway"/></td>
-        <td></td>
-        <td></td>
-        <td></td>
       </tr>
       <tr>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/quarkus.png" alt="Quarkus" title="Quarkus"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png" alt="Auth0" title="Auth0"/></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
       </tr>
       <tr>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></td>
@@ -149,10 +129,6 @@ I've worked with a lot of different technologies over the years, so I've tried t
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nixos.png" alt="Nixos" title="Nixos"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android"/></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
       </tr>
       <tr>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/testcontainers.png" alt="Testcontainers" title="Testcontainers"/></td>
@@ -160,11 +136,6 @@ I've worked with a lot of different technologies over the years, so I've tried t
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" alt="Selenium" title="Selenium"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" alt="pytest" title="pytest"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" alt="Jest" title="Jest"/></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
       </tr>
     </table>
   </div>
