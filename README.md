@@ -56,7 +56,7 @@ My name is Særgeir, I am a self-taught software guy, made in 🇺🇦, living i
 <br/>
 
 <details>
-  <summary><code>$ echo $techstack</code></summary>
+  <summary><code>$ cmd</code></summary>
 I've worked on a lot of different technologies over the years, so I've tried to list some of the more still popular ones you might recognize:
 
 <!-- Generated here: https://marwin1991.github.io/profile-technology-icons/ -->
