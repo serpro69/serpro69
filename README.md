@@ -57,7 +57,7 @@ My name is Særgeir, I am a self-taught software guy, made in 🇺🇦, living i
 
 <details>
   <summary><code>$ cmd</code></summary>
-I've worked on a lot of different technologies over the years, so I've tried to list some of the more still popular ones you might recognize:
+I've worked with a lot of different technologies over the years, so I've tried to list some of the more still popular ones you might recognize:
 
 <!-- Generated here: https://marwin1991.github.io/profile-technology-icons/ -->
 
@@ -142,7 +142,7 @@ I've worked on a lot of different technologies over the years, so I've tried to 
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" alt="fedora" title="fedora"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></td>
         <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nixos.png" alt="Nixos" title="Nixos"/></td>
-        <td></td>
+        <td><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android"/></td>
         <td></td>
         <td></td>
         <td></td>
