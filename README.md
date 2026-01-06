@@ -8,6 +8,8 @@
 [![GitLab Profile](https://img.shields.io/badge/GitLab-serpro69-FCA121?logo=gitlab&style=for-the-badge)](https://gitlab.com/serpro69)
 [![DockerHub](https://img.shields.io/badge/DockerHub-serpro69-blue?logo=docker&logoColor=white&style=for-the-badge)](https://hub.docker.com/u/serpro69/)
 
+_the <s>spice</s> code must flow_ 🚀
+
 <code>$ echo "Hello, ${USER:-world} 👋"</code>
 
 Hello and welcome to my profile page.
