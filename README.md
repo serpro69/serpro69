@@ -163,9 +163,10 @@ I've worked with a lot of different technologies over the years, so I've tried t
 ---
 
 <!--START_SECTION:endorsements-->
-  ### Skills & Endorsements
-  
-  I would like to add you to my professional network on GitHub. See more on [how to endorse a skill](https://github.com/serpro69/serpro69/issues/3).
+
+### Skills & Endorsements
+
+I would like to add you to my professional network on GitHub. See more on [how to endorse a skill](https://github.com/serpro69/serpro69/issues/3).
 
   <ul>
   <li><a href="https://github.com/serpro69/serpro69/issues/9">Awesome github profile</a>: <img src=https://avatars.githubusercontent.com/u/76916525?u=71c8d2f77c1a9fa147eb4363601e777c97a6240a&v=4&s=20 height=20 width=20 /><img src=https://avatars.githubusercontent.com/u/76916525?u=71c8d2f77c1a9fa147eb4363601e777c97a6240a&v=4&s=20 height=20 width=20 /><img src=https://avatars.githubusercontent.com/u/76916525?u=71c8d2f77c1a9fa147eb4363601e777c97a6240a&v=4&s=20 height=20 width=20 /><img src=https://avatars.githubusercontent.com/u/22973227?u=cbdf35ef31bf3db8a118503beb03f1f513c38481&v=4&s=20 height=20 width=20 /><img src=https://avatars.githubusercontent.com/u/147504002?u=3dc09d8ac4c0afedeefababf6ae084c9d51d48a6&v=4&s=20 height=20 width=20 /><img src=https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4&s=20 height=20 width=20 /><img src=https://avatars.githubusercontent.com/u/70371917?u=d9ecf2c50e2a0a86489c0acb747317e56e057baa&v=4&s=20 height=20 width=20 /></li>
@@ -178,3 +179,36 @@ I've worked with a lot of different technologies over the years, so I've tried t
   <li><a href="https://github.com/serpro69/serpro69/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
   </ul>
   <!--END_SECTION:endorsements-->
+
+## Repos
+
+<h3>AI 🤖</h3>
+<a href="https://github.com/serpro69/capy"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=capy&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/claude-toolbox"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=claude-toolbox&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/claude-in-docker"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=claude-in-docker&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/noclaw"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=noclaw&theme=ambient_gradient&description_lines_count=3"/></a>
+<h3>Awesome 🕶️</h3>
+<a href="https://github.com/serpro69/awesome-leading-and-managing"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=awesome-leading-and-managing&theme=ambient_gradient&description_lines_count=3"/></a>
+<h3>DevOps && DevEx 🖥️</h3>
+<a href="https://github.com/serpro69/devex-makefile"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=devex-makefile&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/gh-arc"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=gh-arc&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/ktchn8s"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=ktchn8s&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/navi-cheats"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=navi-cheats&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/uptime-kuma-helm"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=uptime-kuma-helm&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/docker-apps-build"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=docker-apps-build&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/terraform-provider-sak"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=terraform-provider-sak&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/terraform-google-modules"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=terraform-google-modules&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/linear-fetch-issues"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=linear-fetch-issues&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/docker-gcloud-cli"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=docker-gcloud-cli&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/semver.kt"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=semver.kt&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/kasm-custom-images"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=kasm-custom-images&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/golang-ansible-modules"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=golang-ansible-modules&theme=ambient_gradient&description_lines_count=3"/></a>
+<h3>Dotfiles and other rice 🍚</h3>
+<a href="https://github.com/serpro69/notfiles"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=notfiles&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/nvim-config"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=nvim-config&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/nord-homepage-tab"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=nord-homepage-tab&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/nord-icons"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=nord-icons&theme=ambient_gradient&description_lines_count=3"/></a>
+<h3>Testing 🧪</h3>
+<a href="https://github.com/serpro69/kotlin-faker"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=kotlin-faker&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/firestore2csv"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=firestore2csv&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/todo-or-die"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=todo-or-die&theme=ambient_gradient&description_lines_count=3"/></a>
