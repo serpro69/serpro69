@@ -184,6 +184,7 @@ I've worked with a lot of different technologies over the years, so I've tried t
 <h3>AI 🤖</h3>
 <a href="https://github.com/serpro69/capy"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=capy&theme=ambient_gradient&description_lines_count=3"/></a>
 <a href="https://github.com/serpro69/claude-toolbox"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=claude-toolbox&theme=ambient_gradient&description_lines_count=3"/></a>
+<a href="https://github.com/serpro69/pal-mcp-server"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=pal-mcp-server&theme=ambient_gradient&description_lines_count=3"/></a>
 <a href="https://github.com/serpro69/claude-in-docker"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=claude-in-docker&theme=ambient_gradient&description_lines_count=3"/></a>
 <a href="https://github.com/serpro69/noclaw"><img alt="Github Stats" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=serpro69&repo=noclaw&theme=ambient_gradient&description_lines_count=3"/></a>
 <h3>Awesome 🕶️</h3>
