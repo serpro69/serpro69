@@ -21,8 +21,8 @@ Feel free to [endorse my skills](#skills--endorsements), and take a look at the 
 <details> 
   <summary><code>$ whoami</code></summary>
   <br/>
-My name is Særgeir, I am a self-taught software guy, made in 🇺🇦, living in beautiful ❤️ 🇳🇴🇳🇴🇳🇴
-<br>At work I'm most passionate about software quality 👌, development experience 💯 and automation ⚙️  I also enjoy going down the 🐇🕳️ while uncovering and fixing nasty 🐞 
+My name is Sergio, I am a self-taught software guy, made with ❤️ in 🇺🇦, living in beautiful 🇳🇴🇳🇴🇳🇴
+<br>At work I'm most passionate about software quality 👌, development experience 💯 and automation ⚙️ I also enjoy going down the 🐇🕳️ while uncovering and fixing nasty 🐞 
 <br>In my spare time I enjoy a variety of different things which are too numerous to list here.
 </details>
 
