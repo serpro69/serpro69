@@ -57,6 +57,7 @@ My name is Sergio, I am a self-taught software guy, made with ❤️ in 🇺🇦
       <li>Before coming to live in Norway 🇳🇴, I've spent a bit less than 2 years living in Mumbai, India 🇮🇳</li>
       <li>I haven't been a coder for my entire professional life. I have a second degree in Finance and I worked in Audit and Finance, among other things, before I found myself working with software...</li>
       <li>Some people call me Særgeir, for no immediately apparent reasons...</li>
+      <li>Been heavily using emojis for all sorts of things since before it became an AI-thing, now I barely use them at all; still not going to update my profile though...</li>
     </ul>
   </ul>
 </details>
