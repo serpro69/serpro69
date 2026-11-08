@@ -4,7 +4,9 @@
 
 [![Github Profile Views](https://komarev.com/ghpvc/?username=serpro69&style=for-the-badge&abbreviated=true)](https://github.com/serpro69)
 <br/>
-[![contributor.top](https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fserpro69.commits.json&style=for-the-badge&label=Github%20Contributor%20Rank)](https://contributor.top/find/?login=serpro69&tab=commits)
+[![contributor.top](https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fserpro69.json&style=for-the-badge&label=Github%20Rank)](https://contributor.top/find/?login=serpro69)
+<br/>
+[![contributor.top](https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fserpro69.commits.json&style=for-the-badge&label=Github%20Rank)](https://contributor.top/find/?login=serpro69&tab=commits)
 <br/>
 [![GitHub Profile](https://img.shields.io/badge/GitHub-serpro69-2088FF?logo=github&style=for-the-badge)](https://github.com/serpro69)
 [![GitLab Profile](https://img.shields.io/badge/GitLab-serpro69-FCA121?logo=gitlab&style=for-the-badge)](https://gitlab.com/serpro69)
