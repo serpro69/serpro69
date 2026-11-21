@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/serpro69/serpro69#readme",
   "dependencies": {
-    "@octokit/rest": "^18.0.0",
+    "@octokit/rest": "^22.0.1",
     "readme-box": "^0.1.2"
   },
   "devDependencies": {
